@@ -1,2 +1,2 @@
-# online-shop-demo.com
+# online-shop-demo
 Online Music Shop Demo
