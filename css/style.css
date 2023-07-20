@@ -38,8 +38,6 @@ nav .menu a:first-child{
 }
 
 main{
-	height: 100%;
-	width: 85vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -47,7 +45,8 @@ main{
 }
 
 section{
-
+	position: absolute;
+    	top: 50%;
 }
 
 section h3{
